@@ -1,6 +1,6 @@
 # RNP - E-Commerce Data Case - Python Dev Jr
 
-Este repositório abjetiva a resolução do case técnico apresentado pela RNP.
+Este repositório abjetiva a resolução do case técnico apresentado por PSM Company e RNP.
 O case, consiste na extração de dados armazenados em um PostgreSQL, realizar as operações solicitadas, descritas em 'RNP-TESTE.txt", e, disponibilizar os resultados obtidos em tabelas no formato Delta junto do(s) algoritmos desenvolvidos.
 
 ## Ferramentas Utilizadas
@@ -10,11 +10,11 @@ O case, consiste na extração de dados armazenados em um PostgreSQL, realizar a
     - Lucid Chart
 
 ### Diagrama ER
-![alt text](https://github.com/dev-torugo/ecommerce-data-case/blob/master/Respostas/RNP - Q1 - Diagrama de ER.png?raw=true)
+![Diagrama ER](https://github.com/dev-torugo/ecommerce-data-case/blob/main/Respostas/RNP%20-%20Q1%20-%20Diagrama%20de%20ER.jpeg)
 
 ### Execução e Verificação
 
-O arquivo ``RNP - E-COMMERCE DATA CASE.ipynb``, contendo as operações solicitadas, está disposto na pasta Respostas e poderá ser utilizado para execução/verificação.
+O arquivo [RNP - E-COMMERCE DATA CASE.ipynb](https://github.com/dev-torugo/ecommerce-data-case/blob/main/Respostas/RNP%20-%20E-COMMERCE%20DATA%20CASE.ipynb), contendo as operações solicitadas, está disposto na pasta Respostas e poderá ser utilizado para execução/verificação.
 
 Para executá-lo no ambiente Databricks Community, basta importar o arquivo para o Workspace criado no Databricks.
 
