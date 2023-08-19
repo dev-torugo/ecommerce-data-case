@@ -20,7 +20,7 @@ Para executá-lo no ambiente Databricks Community, basta importar o arquivo para
 
 ### Pedras encontradas no caminho
 - Para resolução da questão 4, fez-se necessário a criação de uma query de merge para cada uma das tabelas presentes no banco de dados.
-- Também na questão 4, houve a necessidade da trasnformação dos arquivos Parquet em Delta Datalake. Tal movimento foi necessário para que a rotina de UPDATE, INSERT e DELETE desempenhasse seu papel de maneira satisfatória. Caso haja impossibilidade de transformação dos arquivos parquet, sugiro que a rotina seja implementada utilizando PySpark Dataframes.
+- Também na questão 4, houve a necessidade da trasnformação dos arquivos Parquet em Delta Datalake. Tal movimento, foi necessário para que as rotinas de UPDATE, INSERT e DELETE desempenhassem seu papel de maneira satisfatória. Caso haja impossibilidade de transformação dos arquivos parquet, sugiro que a rotina seja implementada utilizando PySpark Dataframes.
 
 ### Sugestões
 - Acredito que, ao fornecer um gabarito para as perguntas propostas na questão 5 cria-se uma base de verificação da resposta encontrada pelo candidato. De maneira, à auxiliá-lo a encontrar o caminho correto para resolução da atividade proposta.
