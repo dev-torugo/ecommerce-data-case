@@ -1,5 +1,4 @@
-# RNP - E-Commerce Data Case - Python Dev Jr
-
+# RNP - E-Commerce Data Case - Data Engineering
 Este repositório abjetiva a resolução do case técnico apresentado por PSM Company e RNP.
 O case, consiste na extração de dados armazenados em um PostgreSQL, realizar as operações solicitadas, descritas em 'RNP-TESTE.txt", e, disponibilizar os resultados obtidos em tabelas no formato Delta junto do(s) algoritmos desenvolvidos.
 
