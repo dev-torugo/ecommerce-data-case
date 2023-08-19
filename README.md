@@ -14,7 +14,7 @@ O case, consiste na extração de dados armazenados em um PostgreSQL, realizar a
 
 ### Execução e Verificação
 
-O arquivo [RNP - E-COMMERCE DATA CASE.ipynb](https://github.com/dev-torugo/ecommerce-data-case/blob/main/Respostas/RNP%20-%20E-COMMERCE%20DATA%20CASE.ipynb), contendo as operações solicitadas, está disposto na pasta Respostas e poderá ser utilizado para execução/verificação.
+O arquivo [RNP - E-COMMERCE DATA CASE.ipynb](https://github.com/dev-torugo/ecommerce-data-case/blob/main/Respostas/RNP%20-%20E-COMMERCE%20DATA%20CASE.ipynb) contendo as operações solicitadas, está disposto na pasta Respostas e poderá ser utilizado para execução/verificação.
 
 Para executá-lo no ambiente Databricks Community, basta importar o arquivo para o Workspace criado no Databricks.
 
